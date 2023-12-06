@@ -1,4 +1,3 @@
 streamlit
-app.py
 altair
 
