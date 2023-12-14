@@ -12,12 +12,16 @@ This dashboard is split into three aspects:
 
 3. Lack of Jobs and Youth Outflow: In this tab, we look at some of the employment opportunities and compare the labor force participation over the last 20 years. Likewise, we also look at the youth unemployment data which tells a story of why young people are leaving the country at an alarming rate. Finally, we look at the net migration rate which is the effect of the above factors we see.
 
-## **Data Sources**: The dataset used for this app is from The World Bank. Here's a link to the dataset: https://data.worldbank.org/country/nepal
+## **Data Sources:** 
 
-## **Data Preparation**: 
+The dataset used for this app is from The World Bank. Here's a link to the dataset: https://data.worldbank.org/country/nepal
+
+## **Data Preparation:**
+
 In terms of data preparation, the csv file from the World Bank Dataset was used for this project. As Nepal is a developing country, there is not a lot of data, so a lot of data available so it had to be cleaned using Python, and the empty values were dropped. 
 
 ## **Here are some of the articles that were cited in this project**: 
+
 Nepal's GDP slowdown: https://www.worldbank.org/en/country/nepal/publication/nepaldevelopmentupdate#:~:text=RECENT%20ECONOMIC%20DEVELOPMENTS,restrictions%20contributed%20to%20the%20slowdown
 
 Nepal's Electricity issues and progress: https://www.bbc.com/news/world-south-asia-12229752
@@ -33,7 +37,8 @@ https://www.ilo.org/kathmandu/areasofwork/employment-promotion/lang--en/index.ht
 Net Migration Status: https://myrepublica.nagariknetwork.com/news/why-are-nepalis-leaving-the-country/
 
 ## **Future Work**:
-        In terms of future work, this app could be developed by integrating other factors like technology advancement, the impact of COVID, recent development and see if any changes have been made. 
+
+In terms of future work, this app could be developed by integrating other factors like technology advancement, the impact of COVID, recent development and see if any changes have been made. 
 
 
 
