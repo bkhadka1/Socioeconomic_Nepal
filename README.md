@@ -32,7 +32,7 @@ https://www.ilo.org/kathmandu/areasofwork/employment-promotion/lang--en/index.ht
 
 Net Migration Status: https://myrepublica.nagariknetwork.com/news/why-are-nepalis-leaving-the-country/
 
-Future Work
+Future Work:
   In terms of future work, this app could be developed by integrating other factors like technology advancement, the impact of COVID, recent development and see if any changes have been made. 
 
 
